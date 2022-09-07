@@ -1,1 +1,0 @@
-# psij-compose-testing
